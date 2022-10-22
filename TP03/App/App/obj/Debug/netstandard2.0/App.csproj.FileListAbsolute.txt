@@ -1,0 +1,15 @@
+D:\IFSP\PDMI6\TP03\App\App\bin\Debug\netstandard2.0\App.deps.json
+D:\IFSP\PDMI6\TP03\App\App\bin\Debug\netstandard2.0\App.dll
+D:\IFSP\PDMI6\TP03\App\App\bin\Debug\netstandard2.0\App.pdb
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.csproj.AssemblyReference.cache
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.csproj.CoreCompileInputs.cache
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.dll
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\refint\App.dll
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\App.pdb
+D:\IFSP\PDMI6\TP03\App\App\obj\Debug\netstandard2.0\ref\App.dll
